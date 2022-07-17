@@ -1,0 +1,15 @@
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\bin\Debug\net6.0\MISCELANEA.exe
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\bin\Debug\net6.0\MISCELANEA.deps.json
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\bin\Debug\net6.0\MISCELANEA.runtimeconfig.json
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\bin\Debug\net6.0\MISCELANEA.dll
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\bin\Debug\net6.0\MISCELANEA.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.csproj.AssemblyReference.cache
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.AssemblyInfoInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.AssemblyInfo.cs
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.csproj.CoreCompileInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.dll
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\refint\MISCELANEA.dll
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\MISCELANEA.genruntimeconfig.cache
+C:\Users\jhon sebastian\Documents\SENA C#\MISCELANEA\obj\Debug\net6.0\ref\MISCELANEA.dll
